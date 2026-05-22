@@ -1,4 +1,4 @@
-# LTworkinprogress
+# Training a Deep-Q-Network-based agent to play Doom & Atari games in a reinforcement learning setting
 **Authors**:
 - Timothee Gathmann
 - Luka Lagator
