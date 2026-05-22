@@ -1,7 +1,10 @@
 # LTworkinprogress
+**Authors**:
+- Timothee Gathmann
+- Luka Lagator
 
 **🎮 Project Overview**
-- Explains this is a 2017 implementation of Deep Q-Network (DQN) for training an AI agent to play Doom & Atari games
+- This is a 2017 implementation of Deep Q-Network (DQN) for training an AI agent to play Doom & Atari games
 - This was to assist research work at the Department of Bioengineering at Imperial College London.
 - Uses reinforcement learning to learn optimal action policies.
 
@@ -29,3 +32,6 @@
 - Instructions for initializing the game environment
 - Training loop details (700 episodes)
 - Performance testing and Q-value visualization
+
+**Acknowledgments**
+[Kai Arulkumaran](https://www.linkedin.com/in/kaiarulkumaran/) for letting us assist him in his research and giving us an opportuntiy to be part of the forefront of RL & Deep Learning at that time.
